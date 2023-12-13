@@ -13,7 +13,7 @@ let image1=document.getElementById('img1')
 
 
 
-let kitchenArr=['https://masai-website-images.s3.ap-south-1.amazonaws.com/amrish_rau_pine_labs_144e5e587c.jpg','https://www.finedininglovers.com/sites/g/files/xknfdk626/files/2022-05/burger.jpg','https://www.bing.com/th?id=OIP.BD55ObZ3yukK8QZe85aIdgHaJ4&pid=3.1&cb=&w=300&h=300&p=0','https://th.bing.com/th/id/OIP._g3Y4GUN_bI2gx7szQV15AHaEK?w=295&h=180&c=7&r=0&o=5&dpr=1.6&pid=1.7','https://th.bing.com/th/id/OIP.v2OMqRYHnbHiETnL5IAC7QHaE8?w=278&h=185&c=7&r=0&o=5&dpr=1.6&pid=1.7','https://th.bing.com/th/id/OIP.o1tQPM3YYB1k01nrg2LSsgHaE7?w=252&h=180&c=7&r=0&o=5&dpr=1.6&pid=1.7','https://th.bing.com/th/id/OIP.rQAqkr_rULH2lt7dXx-Q4wHaKH?w=186&h=255&c=7&r=0&o=5&dpr=1.6&pid=1.7']
+let kitchenArr=['https://th.bing.com/th?id=OIP.MfhIfzrC6x6T1-szQkjtCgHaEo&w=316&h=197&c=8&rs=1&qlt=90&o=6&dpr=1.6&pid=3.1&rm=2','https://www.finedininglovers.com/sites/g/files/xknfdk626/files/2022-05/burger.jpg','https://www.bing.com/th?id=OIP.BD55ObZ3yukK8QZe85aIdgHaJ4&pid=3.1&cb=&w=300&h=300&p=0','https://th.bing.com/th/id/OIP._g3Y4GUN_bI2gx7szQV15AHaEK?w=295&h=180&c=7&r=0&o=5&dpr=1.6&pid=1.7','https://th.bing.com/th/id/OIP.v2OMqRYHnbHiETnL5IAC7QHaE8?w=278&h=185&c=7&r=0&o=5&dpr=1.6&pid=1.7','https://th.bing.com/th/id/OIP.o1tQPM3YYB1k01nrg2LSsgHaE7?w=252&h=180&c=7&r=0&o=5&dpr=1.6&pid=1.7','https://th.bing.com/th/id/OIP.rQAqkr_rULH2lt7dXx-Q4wHaKH?w=186&h=255&c=7&r=0&o=5&dpr=1.6&pid=1.7']
 
 //function imagestyle(img){
    // img.style.width="50vh"
